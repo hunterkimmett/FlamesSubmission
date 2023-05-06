@@ -3,9 +3,9 @@
 ## Introduction
 
 This app offers 3 different ways to view hockey data:
-    - Individual event details in a table
-    - Player-aggregated stats in a table
-    - Individual event details in plotted on a rink
+- Individual event details in a table
+- Player-aggregated stats in a table
+- Individual event details in plotted on a rink
 
 The data can be from an individual game or the whole tournament included in the dataset.
 
